@@ -1,2 +1,2 @@
 # simple-csp
-CSP operators in Typst
+CSP operators in Typst.
