@@ -15,7 +15,7 @@
 #let then = math.class("relation", sym.arrow.r)
 #let tick = math.class("normal", sym.checkmark)
 
-#let traceRefinedBy = math.class("relation", $attach(subset.eq.sq, br: T)$)
+#let tracerefby = math.class("relation", $attach(subset.eq.sq, br: T)$)
 
 #let tracel = math.class("opening", sym.chevron.l)
 #let tracer = math.class("closing", sym.chevron.r)
